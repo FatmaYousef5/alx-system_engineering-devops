@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty -print
+find 0x02-shell_redirections/ -empty -print
